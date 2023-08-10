@@ -2,7 +2,9 @@ package praticeNewstudent;
 
 public class PraticeNewGitHub {
 	public static void main(String[] args) {
-		System.out.println("Hello");
+		System.out.println("Hello world from GitHub");
+		//simple
+		
 	}
 
 }
